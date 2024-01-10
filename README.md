@@ -26,75 +26,53 @@ https://documenter.getpostman.com/view/31172532/2s9YsKfrZ4
 
 
 
-
-
 <h2 align="left">Figma Link:</h2>
 
 https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-1&mode=design&t=Wuez4lr2xMsV8Am7-0
 
 
-<h2 align="left">Project Team</h2>
+<h2 align="left">Total project end-points</h2>
+<h2>62<h2>
+
+  
+<h2 align="left">My end-points</h2>
+encryptAdminPass
+Register as Company
+Register as Provider
+create Proposal(project)
+accept Offer
+reject Offer
+view Received Offers
+view Offers By Price
+find Proposals By Location
+find Proposals By CompanyName
+create Offer
+withdraw Offer
+view My Accepted Offers
+view My Pending Offers
+view My Rejected Offers
+add Order
+view My Proposals
+get All Proposals
 
 
-#tableDiv table {
-  width: 100%; /* Set the table width to 100% of its container */
-}
+<h2 align="left">technologies used</h2>
+-Spring boot frameWork
+-Java 
+-MySQL
+-Intellij
+-DataGrip
+-Xampp
+-Postman
+-Figma
 
-#tableDiv td {
-  width: 50%; /* Set the cell width to 50% of the table */
-}
-
-
-  <table align = "center">
-    <thead>
-      <tr>
-        <th>Bader</th>
-        <th>Nada</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Row 1, Column 1</td>
-        <td>Row 1, Column 2</td>
-      </tr>
-      <tr>
-        <td>Row 2, Column 1</td>
-        <td>Row 2, Column 2</td>
-      </tr>
-      <tr>
-        <td>Row 3, Column 1</td>
-        <td>Row 3, Column 2</td>
-      </tr>
-      <tr>
-        <td>Row 4, Column 1</td>
-        <td>Row 4, Column 2</td>
-      </tr>
-      <tr>
-        <td>Row 5, Column 1</td>
-        <td>Row 5, Column 2</td>
-      </tr>
-      <tr>
-        <td>Row 6, Column 1</td>
-        <td>Row 6, Column 2</td>
-      </tr>
-      <tr>
-        <td>Row 7, Column 1</td>
-        <td>Row 7, Column 2</td>
-      </tr>
-      <tr>
-        <td>Row 8, Column 1</td>
-        <td>Row 8, Column 2</td>
-      </tr>
-      <tr>
-        <td>Row 9, Column 1</td>
-        <td>Row 9, Column 2</td>
-      </tr>
-      <tr>
-        <td>Row 10, Column 1</td>
-        <td>Row 10, Column 2</td>
-      </tr>
-    </tbody>
-  </table>
+<h2 align="left">Spring Dependencies</h2>
+- Spring web
+- MySql Driver
+- Lombok
+- Spring Data JPA
+- Validation
+- Spring Security
 
 
 

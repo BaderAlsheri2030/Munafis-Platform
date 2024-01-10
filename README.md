@@ -35,6 +35,80 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 
 <h2 align="left">Project Team</h2>
 
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    table {
+      width: 50%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+  </tr>
+  <tr>
+    <td>Row 1</td>
+    <td>Lorem ipsum dolor sit amet</td>
+  </tr>
+  <tr>
+    <td>Row 2</td>
+    <td>Consectetur adipiscing elit</td>
+  </tr>
+  <tr>
+    <td>Row 3</td>
+    <td>Sed do eiusmod tempor incididunt</td>
+  </tr>
+  <tr>
+    <td>Row 4</td>
+    <td>Ut labore et dolore magna aliqua</td>
+  </tr>
+  <tr>
+    <td>Row 5</td>
+    <td>Ut enim ad minim veniam</td>
+  </tr>
+  <tr>
+    <td>Row 6</td>
+    <td>Quis nostrud exercitation ullamco</td>
+  </tr>
+  <tr>
+    <td>Row 7</td>
+    <td>Laboris nisi ut aliquip ex ea commodo consequat</td>
+  </tr>
+  <tr>
+    <td>Row 8</td>
+    <td>Duis aute irure dolor in reprehenderit</td>
+  </tr>
+  <tr>
+    <td>Row 9</td>
+    <td>Excepteur sint occaecat cupidatat non</td>
+  </tr>
+  <tr>
+    <td>Row 10</td>
+    <td>Proident, sunt in culpa qui officia deserunt</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
   <table align = "center">
     <thead>
       <tr>

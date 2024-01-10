@@ -77,6 +77,9 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 <p>Spring Security</p>
 
 
+  
+<h3 align="left">Languages used:</h3>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 
 <h2 align="left">Contatct me:</h2>
 <h3 align="left">Linkedin</h3>
@@ -87,6 +90,3 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 <a Alshehri.b@outlook.sa</a>
 <h3 align="left">Alshehri.b@outlook.sa</h3>
 
-  
-<h3 align="left">Languages used:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 

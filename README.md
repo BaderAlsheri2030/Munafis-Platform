@@ -1,6 +1,7 @@
 <h1 align="center">Munafis-Platform</h1>
-<img align="center" width="412" alt="Screenshot_2024-01-08_at_9 07 23_PM" src="https://github.com/vk1ll3r/Munafis-Platform/assets/148685831/a83e95dc-eebd-453c-a171-cacd57a48f46">
-
+<div align="center"> 
+<img  width="412" alt="Screenshot_2024-01-08_at_9 07 23_PM" src="https://github.com/vk1ll3r/Munafis-Platform/assets/148685831/a83e95dc-eebd-453c-a171-cacd57a48f46">
+</div>
 
 <h2 align="left">Project Description</h2>
 GitHub Profile README Generator

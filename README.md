@@ -58,7 +58,7 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 <p>get All Proposals</p>
 </div>
 
-<h2 align="left">technologies used</h2>
+<h2 align="left">Technologies used</h2>
 <p>-Spring boot frameWork</p>
 <p>-Java</p>
 <p>-MySQL</p>

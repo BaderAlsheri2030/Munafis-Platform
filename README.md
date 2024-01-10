@@ -37,7 +37,8 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
   
 <h2 align="left">My end-points</h2>
 <div>
-encryptAdminPass
+
+<p>encryptAdminPass</p>
 Register as Company
 Register as Provider
 create Proposal(project)

@@ -8,7 +8,7 @@ Munafis is a platform that allows companies to post their projects as a proposal
 
 
 <h2 align="left">Diagrams</h2>
-<h2 align="left">Use case Diagram</h2>
+<h3 align="left">Use case Diagram</h3>
 <div align="center"> 
 <img  width="412" alt="Screenshot_2024-01-08_at_9 07 23_PM" src="https://github.com/vk1ll3r/Munafis-Platform/assets/148685831/87261bd1-6d40-4b86-8db5-05804db8e88d">
 </div>

@@ -14,8 +14,9 @@ Munafis is a platform that allows companies to post their projects as a proposal
 </div>
 
 <h3 align="left">Class diagram:</h3>
-
+<div align="center"> 
 <img width="557" alt="image" src="https://github.com/vk1ll3r/Munafis-Platform/assets/148685831/d1f03f3f-41a8-411e-9961-9d77e1932941">
+</div>
 
 
 

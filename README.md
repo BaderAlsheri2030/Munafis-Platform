@@ -35,6 +35,16 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 
 <h2 align="left">Project Team</h2>
 
+
+#tableDiv table {
+  width: 100%; /* Set the table width to 100% of its container */
+}
+
+#tableDiv td {
+  width: 50%; /* Set the cell width to 50% of the table */
+}
+
+<div id="tableDiv">
   <table align = "center">
     <thead>
       <tr>
@@ -85,6 +95,7 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
       </tr>
     </tbody>
   </table>
+</div>
 
 
 

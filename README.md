@@ -34,7 +34,75 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 
 
 <h2 align="left">Project Team</h2>
+<style>
+    table {
+      font-family: Arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
 
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #dddddd;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Column 1</th>
+        <th>Column 2</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Row 1, Column 1</td>
+        <td>Row 1, Column 2</td>
+      </tr>
+      <tr>
+        <td>Row 2, Column 1</td>
+        <td>Row 2, Column 2</td>
+      </tr>
+      <tr>
+        <td>Row 3, Column 1</td>
+        <td>Row 3, Column 2</td>
+      </tr>
+      <tr>
+        <td>Row 4, Column 1</td>
+        <td>Row 4, Column 2</td>
+      </tr>
+      <tr>
+        <td>Row 5, Column 1</td>
+        <td>Row 5, Column 2</td>
+      </tr>
+      <tr>
+        <td>Row 6, Column 1</td>
+        <td>Row 6, Column 2</td>
+      </tr>
+      <tr>
+        <td>Row 7, Column 1</td>
+        <td>Row 7, Column 2</td>
+      </tr>
+      <tr>
+        <td>Row 8, Column 1</td>
+        <td>Row 8, Column 2</td>
+      </tr>
+      <tr>
+        <td>Row 9, Column 1</td>
+        <td>Row 9, Column 2</td>
+      </tr>
+      <tr>
+        <td>Row 10, Column 1</td>
+        <td>Row 10, Column 2</td>
+      </tr>
+    </tbody>
+  </table>
 
 
 

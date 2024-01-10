@@ -35,7 +35,7 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 
 <h2 align="left">Project Team</h2>
 
-  <table>
+  <table align = "center">
     <thead>
       <tr>
         <th>Column 1</th>

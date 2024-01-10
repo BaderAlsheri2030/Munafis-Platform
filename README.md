@@ -29,7 +29,7 @@ https://documenter.getpostman.com/view/31172532/2s9YsKfrZ4
 
 
 
-<h2 align="left">Figma Link</h2>
+<h2 align="left">Figma Link:</h2>
 
 https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-1&mode=design&t=Wuez4lr2xMsV8Am7-0
 

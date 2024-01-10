@@ -39,13 +39,6 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    table {
-      width: 50%;
-      border-collapse: collapse;
-    }
-
-  </style>
 </head>
 <body>
 

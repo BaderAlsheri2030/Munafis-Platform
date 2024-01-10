@@ -4,7 +4,7 @@
 </div>
   
 <h2 align="left">Project Description</h2>
-Munafis is platform that allows companies to post their projects as a proposal in the platform, enabling startups and medium-sized companies to create offers and submit bids and compete for the presented projects, providing a company with many offers for it's project to choose the best provided offer, It also allows companies to provide  products and technological and non-technological services. 
+Munafis is platform that allows companies to post their projects as a proposal in the platform, enabling startups and medium-sized companies to create offers and submit bids and compete for the presented projects, providing a company's project with many offers to choose the best received offer, It also allows companies to provide products and technological and non-technological services. 
 
 
 

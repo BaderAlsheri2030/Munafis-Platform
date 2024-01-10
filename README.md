@@ -4,18 +4,12 @@
 </div>
   
 <h2 align="left">Project Description</h2>
-Munafis is platform that allows companies to showcase their projects on the platform, enabling startups and medium-sized companies to submit bids and compete for the presented projects. It also allows companies to showcase technological and non-technological products and services. 
+Munafis is platform that allows companies to post their projects as a proposal in the platform, enabling startups and medium-sized companies to create offers and submit bids and compete for the presented projects, providing a company with many offers for it's project to choose the best provided offer, It also allows companies to provide  products and technological and non-technological services. 
 
-back to edit
 
-copy-markdown
 
-download markdown
 
-download backup
-
-preview
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contatct me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/b-alshehri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/b-alshehri/" height="30" width="40" /></a>
 </p>

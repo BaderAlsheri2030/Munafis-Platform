@@ -69,13 +69,12 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 <p>-Figma</p> 
 
 <h2 align="left">Spring Dependencies</h2>
-- Spring web
-- MySql Driver
-- Lombok
-- Spring Data JPA
-- Validation
-- Spring Security
-
+<p>Spring web</p>
+<p>MySql Driver</p>
+<p>Lombok</p>
+<p>Spring Data JPA</p>
+<p>Validation</p>
+<p>Spring Security</p>
 
 
 

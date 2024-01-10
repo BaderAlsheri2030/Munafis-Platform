@@ -44,12 +44,12 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
   width: 50%; /* Set the cell width to 50% of the table */
 }
 
-<div id="tableDiv">
+
   <table align = "center">
     <thead>
       <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
+        <th>Bader</th>
+        <th>Nada</th>
       </tr>
     </thead>
     <tbody>
@@ -95,7 +95,7 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
       </tr>
     </tbody>
   </table>
-</div>
+
 
 
 

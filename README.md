@@ -39,34 +39,34 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 <div>
 
 <p>encryptAdminPass</p>
-Register as Company
-Register as Provider
-create Proposal(project)
-accept Offer
-reject Offer
-view Received Offers
-view Offers By Price
-find Proposals By Location
-find Proposals By CompanyName
-create Offer
-withdraw Offer
-view My Accepted Offers
-view My Pending Offers
-view My Rejected Offers
-add Order
-view My Proposals
-get All Proposals
+<p>Register as Company</p>
+<p>Register as Provider</p>
+<p>create Proposal(project)</p>
+<p>accept Offer</p>
+<p>reject Offer</p>
+<p>view Received Offers</p>
+<p>view Offers By Price</p>
+<p>find Proposals By Location</p>
+<p>find Proposals By CompanyName</p>
+<p>create Offer</p>
+<p>withdraw Offer</p>
+<p>view My Accepted Offers</p>
+<p>view My Pending Offers</p>
+<p>view My Rejected Offers</p>
+<p>add Order</p>
+<p>view My Proposals</p>
+<p>get All Proposals</p>
 </div>
 
 <h2 align="left">technologies used</h2>
--Spring boot frameWork
--Java 
--MySQL
--Intellij
--DataGrip
--Xampp
--Postman
--Figma
+<p>-Spring boot frameWork</p>
+<p>-Java</p>
+<p>-MySQL</p>
+<p>-Intellij</p>
+<p>-DataGrip</p>
+<p>-Xampp</p>
+<p>-Postman</p>
+<p>-Figma</p> 
 
 <h2 align="left">Spring Dependencies</h2>
 - Spring web

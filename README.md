@@ -39,54 +39,106 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 <!DOCTYPE html>
 <html>
 <head>
+    <style>
+        table {
+          width: 100%;
+          border-collapse: collapse;
+        }
+      
 </head>
 <body>
 
 <table>
-  <tr>
-    <th>Column 1</th>
-    <th>Column 2</th>
-  </tr>
-  <tr>
-    <td>Row 1</td>
-    <td>Lorem ipsum dolor sit amet</td>
-  </tr>
-  <tr>
-    <td>Row 2</td>
-    <td>Consectetur adipiscing elit</td>
-  </tr>
-  <tr>
-    <td>Row 3</td>
-    <td>Sed do eiusmod tempor incididunt</td>
-  </tr>
-  <tr>
-    <td>Row 4</td>
-    <td>Ut labore et dolore magna aliqua</td>
-  </tr>
-  <tr>
-    <td>Row 5</td>
-    <td>Ut enim ad minim veniam</td>
-  </tr>
-  <tr>
-    <td>Row 6</td>
-    <td>Quis nostrud exercitation ullamco</td>
-  </tr>
-  <tr>
-    <td>Row 7</td>
-    <td>Laboris nisi ut aliquip ex ea commodo consequat</td>
-  </tr>
-  <tr>
-    <td>Row 8</td>
-    <td>Duis aute irure dolor in reprehenderit</td>
-  </tr>
-  <tr>
-    <td>Row 9</td>
-    <td>Excepteur sint occaecat cupidatat non</td>
-  </tr>
-  <tr>
-    <td>Row 10</td>
-    <td>Proident, sunt in culpa qui officia deserunt</td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Column 1</th>
+      <th>Column 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 2, Cell 1</td>
+      <td>Row 2, Cell 2</td>
+    </tr>
+    <!-- Continue adding rows (up to 20 total) -->
+    <!-- Example of row 3 to row 20 -->
+    <tr>
+      <td>Row 3, Cell 1</td>
+      <td>Row 3, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 4, Cell 1</td>
+      <td>Row 4, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 5, Cell 1</td>
+      <td>Row 5, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 6, Cell 1</td>
+      <td>Row 6, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 7, Cell 1</td>
+      <td>Row 7, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 8, Cell 1</td>
+      <td>Row 8, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 9, Cell 1</td>
+      <td>Row 9, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 10, Cell 1</td>
+      <td>Row 10, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 11, Cell 1</td>
+      <td>Row 11, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 12, Cell 1</td>
+      <td>Row 12, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 13, Cell 1</td>
+      <td>Row 13, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 14, Cell 1</td>
+      <td>Row 14, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 15, Cell 1</td>
+      <td>Row 15, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 16, Cell 1</td>
+      <td>Row 16, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 17, Cell 1</td>
+      <td>Row 17, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 18, Cell 1</td>
+      <td>Row 18, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 19, Cell 1</td>
+      <td>Row 19, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 20, Cell 1</td>
+      <td>Row 20, Cell 2</td>
+    </tr>
+  </tbody>
 </table>
 
 </body>

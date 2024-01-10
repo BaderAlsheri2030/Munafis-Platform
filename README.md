@@ -34,25 +34,7 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 
 
 <h2 align="left">Project Team</h2>
-<style>
-    table {
-      font-family: Arial, sans-serif;
-      border-collapse: collapse;
-      width: 100%;
-    }
 
-    th, td {
-      border: 1px solid #dddddd;
-      text-align: left;
-      padding: 8px;
-    }
-
-    th {
-      background-color: #dddddd;
-    }
-  </style>
-</head>
-<body>
   <table>
     <thead>
       <tr>

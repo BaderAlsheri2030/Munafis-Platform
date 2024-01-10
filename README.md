@@ -36,6 +36,7 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 
   
 <h2 align="left">My end-points</h2>
+<div>
 encryptAdminPass
 Register as Company
 Register as Provider
@@ -54,7 +55,7 @@ view My Rejected Offers
 add Order
 view My Proposals
 get All Proposals
-
+</div>
 
 <h2 align="left">technologies used</h2>
 -Spring boot frameWork

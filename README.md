@@ -2,13 +2,9 @@
 <div align="center"> 
 <img  width="412" alt="Screenshot_2024-01-08_at_9 07 23_PM" src="https://github.com/vk1ll3r/Munafis-Platform/assets/148685831/a83e95dc-eebd-453c-a171-cacd57a48f46">
 </div>
-
+  
 <h2 align="left">Project Description</h2>
-GitHub Profile README Generator
-Star this repo
-18513
-Fork on GitHub
-5509
+Munafis is platform that allows companies to showcase their projects on the platform, enabling startups and medium-sized companies to submit bids and compete for the presented projects. It also allows companies to showcase technological and non-technological products and services. 
 
 back to edit
 

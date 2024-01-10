@@ -80,7 +80,9 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
   
 <h2 align="left">Languages used:</h2>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-
+<h2>Team</h2>
+ <p><a href="https://github.com/BaderAlsheri2030">Bader Alshehri</a></p> 
+   <p><a href="https://github.com/NadaaNasserr">Nada Naser</a></p> 
 <h2 align="left">Contatct me:</h2>
 <h3 align="left">Linkedin</h3>
 <p align="left">

@@ -22,7 +22,9 @@ Munafis is a platform that allows companies to post their projects as a proposal
 
 
 
-<h2 align="left">Postman Link</h2>
+<h2 align="left">Postman Documentation Link</h2>
+https://documenter.getpostman.com/view/31172532/2s9YsKfrZ4
+
 
 
 

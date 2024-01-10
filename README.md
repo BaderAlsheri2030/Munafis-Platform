@@ -1,4 +1,4 @@
-<h1 align="center">JavaSpring boot Munafis-Platform</h1>
+<h1 align="center">Munafis-Platform</h1>
 
 
 github profile markdown generator logo

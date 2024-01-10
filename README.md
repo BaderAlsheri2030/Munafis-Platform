@@ -85,7 +85,7 @@ https://www.figma.com/file/RVGLagW1TCB3ImUX3TUNwo/MUNAFIS?type=design&node-id=0-
 </p>
 <h3 align="left">Email</h3>
 <a Alshehri.b@outlook.sa</a>
-<h2>Alshehri.b@outlook.sa</h2>
+<h3 align="left">Alshehri.b@outlook.sa</h3>
 
   
 <h3 align="left">Languages used:</h3>
